@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Ryotatsu's Homepage"
 title_separator          : "-"
 name                     : &name "Ryotatsu Yanagimoto"
 description              : &description "personal description"
