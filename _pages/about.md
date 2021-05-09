@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Preparing
+Under construction
