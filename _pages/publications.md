@@ -9,7 +9,7 @@ Featured Researches
 ---
 {% for post in site.publications reversed %}
 {% if post.featured %}
-  {% include archive-single.html %}<br/>
+  {% include archive-single.html %}
 {%endif%}
 {% endfor %}
 
