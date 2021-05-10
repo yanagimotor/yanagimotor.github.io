@@ -13,7 +13,7 @@ Featured Researches
 {%endif%}
 {% endfor %}
 
-Other researches
+Other Researches
 ---
 {% for post in site.publications reversed %}
 {% if (post.featured) %}
