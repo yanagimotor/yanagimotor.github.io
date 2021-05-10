@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Applied Physics at Stanford University, working at <a href="https://mabuchilab.org">Mabuchilab</a>, and I am interested in AMO physics and quantum photonics in general. In particular, my primary research interest is on understanding and engineering broadband quantum dynamics of optical photons in highly nonlinear systems. I got a BE in Applied Physics at the University of Tokyo, where I worked on an experiment of optical lattice clocks at the <a href="http://www.amo.t.u-tokyo.ac.jp/e_index.html">quantum metrology lab</a>.
+I am a Ph.D. candidate in Applied Physics at Stanford University, working at <a href="https://mabuchilab.org">Mabuchilab</a>. While my research interests span across AMO physics and quantum photonics in general, my primary research interest is on understanding and engineering broadband quantum dynamics of optical photons in highly nonlinear systems. I got a BE in Applied Physics at the University of Tokyo, where I worked on an experiment of optical lattice clocks at the <a href="http://www.amo.t.u-tokyo.ac.jp/e_index.html">quantum metrology lab</a>.
 
 Broadband quantum optics: ultrafast optics in strongly interacting regime
 ---
@@ -21,11 +21,10 @@ Although both few-mode quantum optics and ultrafast nonlinear optics concern the
 My research interest is on unraveling and engineering the physics of broadband quantum optics; Rich but complicated multimode dynamics of photons can either be seen as "errors" on conventional few-mode quantum optics, or be harnessed to realize a new paradigm of powerful quantum engineering and/or information processing.
 
 References:
-
-M. Jankowski et al., "Ultrabroadband nonlinear optics in nanophotonic periodically poled lithium niobate waveguides", Optica 7, 40 (2020).
-
-R. Yanagimoto et al., "Efficient simulation of ultrafast quantum nonlinear optics with matrix product states", arXiv:2102.05902.
-
-R. Yanagimoto et al., "Broadband Parametric Downconversion as a Discrete-Continuum Fano Interaction", arXiv:2009.01457.
-
-R. Yanagimoto et al., "Engineering a Kerr-Based Deterministic Cubic Phase Gate via Gaussian Operations", Phys. Rev. Lett. 124, 240503(2020).
+<ol>
+<li>J. Lu et al., "Toward 1% single-photon anharmonicity with periodically poled lithium niobate microring resonators," Optica <b>7</b>, 1654 (2020). </li>
+<li>D. E. Chang et al., "Quantum nonlinear optics — photon by photon," Nat. Photon. <b>8</b>, 685 (2014).</li>
+<li>J. Roslund et al., "Wavelength-multiplexed quantum networks with ultrafast frequency combs," Nat. Photon. <b>8</b>, 109 (2014).</li>
+<li>M. Jankowski et al., "Ultrabroadband nonlinear optics in nanophotonic periodically poled lithium niobate waveguides," Optica <b>7</b>, 40 (2020).</li>
+<li>R. Yanagimoto et al., "Efficient simulation of ultrafast quantum nonlinear optics with matrix product states," arXiv:2102.05902.</li>
+</ol>
