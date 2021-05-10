@@ -19,3 +19,13 @@ On the other hand, in the field of ultrafast nonlinear optics, it is not unusual
 Although both few-mode quantum optics and ultrafast nonlinear optics concern the physics of the same elementary particle, i.e., photon, their conceptual frameworks vastly differ. Aside from the fundamental interests regarding multimode quantum systems in general, advances in dispersion-engineered nonlinear photonics have made it plausible to experimentally realize photons that are both broadband and strongly interacting, underscoring the need to establish quantum theories that address this largely unexplored regime of quantum optics, which I refer to as "broadband quantum optics".
 
 My research interest is on unraveling and engineering the physics of broadband quantum optics; Rich but complicated multimode dynamics of photons can either be seen as "errors" on conventional few-mode quantum optics, or be harnessed to realize a new paradigm of powerful quantum engineering and/or information processing.
+
+References:
+
+M. Jankowski et al., "Ultrabroadband nonlinear optics in nanophotonic periodically poled lithium niobate waveguides", Optica 7, 40 (2020).
+
+R. Yanagimoto et al., "Efficient simulation of ultrafast quantum nonlinear optics with matrix product states", arXiv:2102.05902.
+
+R. Yanagimoto et al., "Broadband Parametric Downconversion as a Discrete-Continuum Fano Interaction", arXiv:2009.01457.
+
+R. Yanagimoto et al., "Engineering a Kerr-Based Deterministic Cubic Phase Gate via Gaussian Operations", Phys. Rev. Lett. 124, 240503(2020).

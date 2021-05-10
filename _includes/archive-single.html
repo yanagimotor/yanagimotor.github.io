@@ -12,10 +12,36 @@
   {% assign title = post.title %}
 {% endif %}
 
+<style>
+  * {
+    box-sizing: border-box;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+  }
+  .columnfig {
+    flex: 25%;
+    padding: 10px;
+  }
+  .columntext {
+    flex: 75%;
+    padding: 10px;
+  }
+</style>
+
+<div class="row">
+  <div class="columnfig">
+{% if post.imagepath %}
+<img src="{{ post.imagepath }}" width="100%">
+{% endif %}
+</div>
+<div class="columntext">
+
 <div class="{{ include.type | default: "list" }}__item">
-  <h2 class="archive__item-title" itemprop="headline">
+  <h3 class="archive__item-title" itemprop="headline">
     {{ title }}
-  </h2>
+  </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -39,4 +65,7 @@
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
+</div>
+
+</div>
 </div>
