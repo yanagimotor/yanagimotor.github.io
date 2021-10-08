@@ -26,5 +26,5 @@ References:
 <li>D. E. Chang et al., "Quantum nonlinear optics — photon by photon," Nat. Photon. <b>8</b>, 685 (2014).</li>
 <li>J. Roslund et al., "Wavelength-multiplexed quantum networks with ultrafast frequency combs," Nat. Photon. <b>8</b>, 109 (2014).</li>
 <li>M. Jankowski et al., "Ultrabroadband nonlinear optics in nanophotonic periodically poled lithium niobate waveguides," Optica <b>7</b>, 40 (2020).</li>
-<li>R. Yanagimoto et al., "Efficient simulation of ultrafast quantum nonlinear optics with matrix product states," arXiv:2102.05902.</li>
+<li>R. Yanagimoto et al., "Efficient simulation of ultrafast quantum nonlinear optics with matrix product states," Optica <b>8</b>, 1306 (2021).</li>
 </ol>
