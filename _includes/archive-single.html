@@ -40,7 +40,7 @@
 <div class="columntext">
 
   <h3 class="archive__item-title" itemprop="headline">
-    {{ title }}
+    <a href="{{post.paperurl}}">{{ title }}</a>
   </h3>
     {% if post.citation and post.paperurl %}
       {{ post.citation }}{% endif %}{% if post.blogpost %}
