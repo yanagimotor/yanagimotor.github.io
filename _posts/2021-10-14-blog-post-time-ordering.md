@@ -21,11 +21,11 @@ holds true, since $$H^\dagger=H$$.
 
 It turns out, however, that it is not that simple, due to the presence of the time-ordering operator $$\mathcal{T}$$. To see the issue more clearly, we need to expand the expression of $$U(t)$$ in its full form as
 
-$$U(t)=\sum_{n=0}^\infty(-i)^n\int^t_0\mathrm{d}t_1\int^{t_1}_0\mathrm{d}t_2\cdots \int^{t_{n-1}}_0\mathrm{d}t_n\,H(t_1)H(t_2)\cdots H(t_n).$$
+$$U(t)=I+\sum_{n=1}^\infty(-i)^n\int^t_0\mathrm{d}t_1\int^{t_1}_0\mathrm{d}t_2\cdots \int^{t_{n-1}}_0\mathrm{d}t_n\,H(t_1)H(t_2)\cdots H(t_n).$$
 
 Now, by taking the Hermitian conjugate, we get 
 
-$$U^\dagger(t)=\sum_{n=0}^\infty(i)^n\int^t_0\mathrm{d}t_1\int^{t_1}_0\mathrm{d}t_2\cdots \int^{t_{n-1}}_0\mathrm{d}t_n\,H(t_n)H(t_{n-1})\cdots H(t_1),$$
+$$U^\dagger(t)=I+\sum_{n=1}^\infty(i)^n\int^t_0\mathrm{d}t_1\int^{t_1}_0\mathrm{d}t_2\cdots \int^{t_{n-1}}_0\mathrm{d}t_n\,H(t_n)H(t_{n-1})\cdots H(t_1),$$
 
 where we have used $$(H(t_1)H(t_2)\cdots H(t_n))^\dagger=H(t_n)H(t_{n-1})\cdots H(t_1)$$. Notice that the fact that Hamiltonians at different times do not necessarily commute lead to an inversion of time ordering in the integral. Formally, we can denote the correct answer as
 
