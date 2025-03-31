@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Applied Physics at Stanford University, working at <a href="https://mabuchilab.org">Mabuchilab</a>. While my research interests span across AMO physics and quantum photonics in general, my primary research interest is on understanding and engineering broadband quantum dynamics of optical photons in highly nonlinear systems. I got a BE in Applied Physics at the University of Tokyo, where I worked on an experiment of optical lattice clocks at the <a href="http://www.amo.t.u-tokyo.ac.jp/e_index.html">quantum metrology lab</a>.
+
 
 Broadband quantum optics: ultrafast optics in strongly interacting regime
 ---
