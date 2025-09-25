@@ -38,13 +38,13 @@
 {% endif %}
 </div>
 <div class="columntext">
-
-  <h3 class="archive__item-title" itemprop="headline">
-    <a href="{{post.paperurl}}">{{ title }}</a>
-  </h3>
-    {% if post.citation and post.paperurl %}
-      {{ post.citation }}{% endif %}{% if post.blogpost %}
-      <br/>
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink"><img src="/images/icons/icons8-note-64.png" width=20px> Blog post about this work</a>{% endif %}
+{{ post.authors }}
+<br/>
+<b>{{ post.title }}</b>
+  <div class="archive__item-title" itemprop="headline">
+    <b><a href="{{post.paperurl}}">{{ post.citation }}</a></b>
+  </div>
+    <!-- {% if post.blogpost %}
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink"><img src="/images/icons/icons8-note-64.png" width=20px> Blog post about this work</a>{% endif %} -->
 </div>
 </div>

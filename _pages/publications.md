@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-Featured Researches
+First-authored Papers
 ---
 {% for post in site.publications reversed %}
 {% if post.featured %}
@@ -13,7 +13,7 @@ Featured Researches
 {%endif%}
 {% endfor %}
 
-Other Researches
+Co-authored Papers
 ---
 {% for post in site.publications reversed %}
 {% if (post.featured) %}

@@ -6,7 +6,8 @@ excerpt: ''
 date: 2022-11-17
 venue: 
 paperurl: 'https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-11-1289&id=521759'
-citation: '<b>R. Yanagimoto</b>, E. Ng, M. Jankowski, H. Mabuchi, R. Hamerly, Optica <b>9</b>, 1289 (2022).'
+citation: '<i>Optica</i> 9, 1289 (2022)'
+authors: 'R. Yanagimoto, E. Ng, M. Jankowski, H. Mabuchi, R. Hamerly'
 featured: true
 imagepath: '/images/publications/temporal.png'
 blogpost: false

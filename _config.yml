@@ -81,13 +81,13 @@ analytics:
 author:
   name             : "Ryotatsu Yanagimoto (柳本凌達)"
   avatar           : "profile.png"
-  bio              : "I am a researcher working on 2^{ultrafast, quantum, nonlinear} optics at NTT Research and Cornell University. I obtained Ph.D. in Applied Physics at Stanford University in 2023 and B.E. in Applied Physics at University of Tokyo in 2017."
-  location         : "Ithaca, NY, USA"
+  bio              : "A researcher working on 2^{ultrafast, quantum, nonlinear} optics"
+  location         : "Sunnyvale, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T8azr6UAAAAJ&hl=en&inst=5746887945952177237&oi=ao"
-  email            : "ryotatsu@stanford.edu"
-  researchgate     :  #"https://www.researchgate.net/profile/Ryotatsu-Yanagimoto"
+  email            : "ryotatsu.yanagimoto@ntt-research.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
