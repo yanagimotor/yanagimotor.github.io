@@ -1,12 +1,12 @@
 ---
 title: "Programmable on-chip nonlinear photonics"
 collection: publications
-permalink: /publication/2025-03-25-programmable
+permalink: /publication/2025-10-08-programmable
 excerpt: ''
-date: 2025-03-25
+date: 2025-10-08
 venue: 
-paperurl: 'https://arxiv.org/abs/2503.19861'
-citation: '<i>Nature (in press)</i> (2025)'
+paperurl: 'https://doi.org/10.1038/s41586-025-09620-9'
+citation: '<i>Nature</i> (2025)'
 authors: 'R. Yanagimoto, B. A. Ash, M. M. Sohoni, M. M. Stein, Y. Zhao, F. Presutti, M. Jankowski, L. G. Wright, T. Onodera, P. L. McMahon'
 featured: true
 imagepath: '/images/publications/programmable.png'
