@@ -59,7 +59,7 @@ References:
 <ol> 
 <li>P. A. Franken et al., "Generation of Optical Harmonics," Phys. Rev. Lett. <b>7
 </b>, 118 (1961). </li>
-<li>R. Yanagimoto et al., "Programmable on-chip nonlinear photonics," Nature (in press) (2025).</li>
+<li>R. Yanagimoto et al., "Programmable on-chip nonlinear photonics," Nature <b>649</b>, 330 (2026).</li>
 <li>T. Wu et al., "Field-programmable photonic nonlinearity," Nat. Photon. <b>19</b>, 725 (2025).</li>
 <li>V. Sultanov et al., "Tunable entangled photon-pair generation in a liquid crystal," Nature <b>631</b>, 294 (2024).</li>
 <li>G. Bashan et al., "Optically programable quasi phase matching in four-wave mixing," Nat. Commun. <b>16</b>, 6855 (2025).</li>
