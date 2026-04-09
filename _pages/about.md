@@ -9,6 +9,7 @@ redirect_from:
 ---
 I am a researcher at <a href="https://ntt-research.com">NTT Research</a> working on ultrafast, quantum, and nonlinear optics. I was a postdoctoral scholar at Cornell University with <a href="https://mcmahon.aep.cornell.edu">Prof. Peter McMahon</a> between 2023-2025. I acquired a Ph.D. in applied physcs at Stanford University with <a href="https://mabuchilab.org">Prof. Hideo Mabuchi</a> in 2023, and a B.E. in applied physics at the University of Tokyo with <a href="https://www.amo.t.u-tokyo.ac.jp/katori/">Prof. Hidetoshi Katori</a> in 2017. Please refer to a <a href="{{ base_path }}/cv" rel="permalink">curriculum vitae</a> for full details.
 
+<a href="https://scholar.google.com/citations?user=T8azr6UAAAAJ">Google scholar</a> <a href="https://orcid.org/0000-0002-9609-0076">ORCID</a> <a href="https://researchmap.jp/yanagimotor">Researchmap</a> <a href="https://x.com/yanagimotor">X</a> <a href="https://www.linkedin.com/in/ryotatsu-yanagimoto-9919a382">Linkedin</a>
 
 Research interest: What is the next frontier of nonlinear optics?
 ---
